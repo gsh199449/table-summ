@@ -23,7 +23,7 @@ We appreciate your citation if you find our dataset is beneficial.
 ```bibtex
 @inproceedings{Gao2021BioGen,
 title={BioGen: Generating Biography Summary under Table Guidance on Wikipedia},
-author={Shen Gao and Xiuying Chen and Liu Chang and Dongyan Zhao and Rui Yan},
+author={Shen Gao and Xiuying Chen and Chang Liu and Dongyan Zhao and Rui Yan},
 booktitle={ACL-Findings},
 year={2021}
 }
