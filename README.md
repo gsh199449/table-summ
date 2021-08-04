@@ -8,7 +8,7 @@ This repository contains dataset for the ACL 2021 Findings paper "BioGen: Genera
 
 
 # How to get the corpus?
-Signed the following copyright announcement with your name and organization. Then complete the [form]() online and **mail** to shengao#pku.edu.cn ('#'->'@'), we will send you the corpus by e-mail when approved.
+Signed the following copyright announcement with your name and organization. Then complete the [form](https://docs.google.com/forms/d/e/1FAIpQLScyUEqF-2lzQKAzmPW-R0laxeppHOYiJ_OzdNcxa02vvxBwXA/viewform?usp=sf_link) online and **mail** to shengao#pku.edu.cn ('#'->'@'), we will send you the corpus by e-mail when approved.
 
 # Copyright
 The original copyright of all the data belongs to the source owner.
